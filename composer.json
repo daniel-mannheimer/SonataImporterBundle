@@ -1,5 +1,5 @@
 {
-    "name": "kunicmarko/sonata-importer-bundle",
+    "name": "daniel-mannheimer/sonata-importer-bundle",
     "type": "symfony-bundle",
     "description": "Easier handling of Import in Sonata Admin.",
     "keywords": [
