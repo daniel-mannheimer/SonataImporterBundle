@@ -23,7 +23,7 @@
     "require": {
         "php": "^7.4",
         "kunicmarko/importer": "^0.2.0",
-        "sonata-project/admin-bundle": "^4",
+        "sonata-project/admin-bundle": "^4.0",
         "sonata-project/twig-extensions": "^1.4",
         "symfony/config": "^4.4 || ^5.1",
         "symfony/dependency-injection": "^4.4 || ^5.1",
